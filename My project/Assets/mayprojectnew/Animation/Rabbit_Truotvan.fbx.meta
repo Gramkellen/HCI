@@ -1,0 +1,1041 @@
+fileFormatVersion: 2
+guid: aa912a8bcde498e41ba0105512ce9607
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_ChestEndEffector
+    100002: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_ChestOriginEffector
+    100004: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Head
+    100006: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_HeadEffector
+    100008: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips
+    100010: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_HipsEffector
+    100012: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftAnkleEffector
+    100014: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftArm
+    100016: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftElbowEffector
+    100018: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftFoot
+    100020: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftFootEffector
+    100022: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftForeArm
+    100024: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftHand
+    100026: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftHandIndex1
+    100028: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftHandIndex2
+    100030: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftHandIndexEffector
+    100032: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftHipEffector
+    100034: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftKneeEffector
+    100036: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftLeg
+    100038: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftLegRoll
+    100040: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftShoulder
+    100042: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftShoulderEffector
+    100044: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftToeBase
+    100046: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftUpLeg
+    100048: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftWristEffector
+    100050: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Neck
+    100052: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference
+    100054: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightAnkleEffector
+    100056: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightArm
+    100058: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightElbowEffector
+    100060: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightFoot
+    100062: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightFootEffector
+    100064: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightForeArm
+    100066: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightHand
+    100068: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightHandIndex1
+    100070: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightHandIndex2
+    100072: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightHandIndexEffector
+    100074: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightHipEffector
+    100076: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightKneeEffector
+    100078: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightLeg
+    100080: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightLegRoll
+    100082: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightShoulder
+    100084: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightShoulderEffector
+    100086: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightToeBase
+    100088: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightUpLeg
+    100090: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightWristEffector
+    100092: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine
+    100094: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine1
+    100096: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Head
+    100098: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips
+    100100: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftArm
+    100102: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftFoot
+    100104: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftForeArm
+    100106: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftHand
+    100108: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftHandIndex1
+    100110: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftHandIndex2
+    100112: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftLeg
+    100114: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftLegRoll
+    100116: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftShoulder
+    100118: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftToeBase
+    100120: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftUpLeg
+    100122: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Neck
+    100124: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference
+    100126: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightArm
+    100128: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightFoot
+    100130: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightForeArm
+    100132: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightHand
+    100134: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightHandIndex1
+    100136: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightHandIndex2
+    100138: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightLeg
+    100140: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightLegRoll
+    100142: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightShoulder
+    100144: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightToeBase
+    100146: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightUpLeg
+    100148: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine
+    100150: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine1
+    100152: rabbit_truot_van:pPlane6
+    100154: rabbit_truot_van:Vantruot:pCube3
+    100156: //RootNode
+    400000: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_ChestEndEffector
+    400002: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_ChestOriginEffector
+    400004: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Head
+    400006: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_HeadEffector
+    400008: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips
+    400010: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_HipsEffector
+    400012: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftAnkleEffector
+    400014: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftArm
+    400016: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftElbowEffector
+    400018: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftFoot
+    400020: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftFootEffector
+    400022: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftForeArm
+    400024: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftHand
+    400026: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftHandIndex1
+    400028: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftHandIndex2
+    400030: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftHandIndexEffector
+    400032: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftHipEffector
+    400034: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftKneeEffector
+    400036: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftLeg
+    400038: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftLegRoll
+    400040: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftShoulder
+    400042: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftShoulderEffector
+    400044: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftToeBase
+    400046: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftUpLeg
+    400048: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftWristEffector
+    400050: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Neck
+    400052: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference
+    400054: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightAnkleEffector
+    400056: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightArm
+    400058: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightElbowEffector
+    400060: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightFoot
+    400062: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightFootEffector
+    400064: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightForeArm
+    400066: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightHand
+    400068: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightHandIndex1
+    400070: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightHandIndex2
+    400072: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightHandIndexEffector
+    400074: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightHipEffector
+    400076: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightKneeEffector
+    400078: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightLeg
+    400080: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightLegRoll
+    400082: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightShoulder
+    400084: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightShoulderEffector
+    400086: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightToeBase
+    400088: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightUpLeg
+    400090: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightWristEffector
+    400092: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine
+    400094: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine1
+    400096: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Head
+    400098: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips
+    400100: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftArm
+    400102: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftFoot
+    400104: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftForeArm
+    400106: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftHand
+    400108: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftHandIndex1
+    400110: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftHandIndex2
+    400112: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftLeg
+    400114: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftLegRoll
+    400116: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftShoulder
+    400118: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftToeBase
+    400120: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftUpLeg
+    400122: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Neck
+    400124: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference
+    400126: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightArm
+    400128: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightFoot
+    400130: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightForeArm
+    400132: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightHand
+    400134: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightHandIndex1
+    400136: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightHandIndex2
+    400138: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightLeg
+    400140: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightLegRoll
+    400142: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightShoulder
+    400144: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightToeBase
+    400146: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightUpLeg
+    400148: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine
+    400150: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine1
+    400152: rabbit_truot_van:pPlane6
+    400154: rabbit_truot_van:Vantruot:pCube3
+    400156: //RootNode
+    2300000: rabbit_truot_van:Vantruot:pCube3
+    3300000: rabbit_truot_van:Vantruot:pCube3
+    4300000: rabbit_truot_van:pPlane6
+    4300002: rabbit_truot_van:Vantruot:pCube3
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: rabbit_truot_van:pPlane6
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rabbit_truot_van_Vantruot_lambert2
+    second: {fileID: 2100000, guid: 92a71d1944231de418b82d981f4a04b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rabbit_truot_van_lambert2
+    second: {fileID: 2100000, guid: 72a4bcedd0f4cb947859d430d2aeb09d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: "Avatar Rig Configuration mis-match. Inbetween bone rotation
+      in configuration does not match rotation in animation file:\n\t'rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftLeg'
+      : rotation error = 44.185013 deg\n\t'rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightLeg'
+      : rotation error = 46.620655 deg\n"
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftLeg'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightLeg'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 61.73
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: rabbit_truot_van:pPlane6
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_ChestEndEffector
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_ChestOriginEffector
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_HeadEffector
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftUpLeg
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftUpLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftLeg
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftUpLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftLegRoll
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftUpLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftLegRoll/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftFoot
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftUpLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftLegRoll/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftFoot/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftToeBase
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightUpLeg
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightUpLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightLeg
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightUpLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightLegRoll
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightUpLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightLegRoll/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightFoot
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightUpLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightLegRoll/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightFoot/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightToeBase
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine1
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftShoulder
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftShoulder/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftArm
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftShoulder/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftForeArm
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftShoulder/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftForeArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftHand
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftShoulder/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftForeArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftHand/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftHandIndex1
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftShoulder/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftForeArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftHand/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftHandIndex1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftHandIndex2
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Neck
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Neck/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Head
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightShoulder
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightShoulder/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightArm
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightShoulder/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightForeArm
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightShoulder/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightForeArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightHand
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightShoulder/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightForeArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightHand/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightHandIndex1
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightShoulder/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightForeArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightHand/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightHandIndex1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightHandIndex2
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_HipsEffector
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftAnkleEffector
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftElbowEffector
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftFootEffector
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftHandIndexEffector
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftHipEffector
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftKneeEffector
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftShoulderEffector
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftWristEffector
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightAnkleEffector
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightElbowEffector
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightFootEffector
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightHandIndexEffector
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightHipEffector
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightKneeEffector
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightShoulderEffector
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightWristEffector
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftUpLeg
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftUpLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftLeg
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftUpLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftLegRoll
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftUpLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftLegRoll/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftFoot
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftUpLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftLegRoll/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftFoot/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftToeBase
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightUpLeg
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightUpLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightLeg
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightUpLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightLegRoll
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightUpLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightLegRoll/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightFoot
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightUpLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightLeg/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightLegRoll/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightFoot/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightToeBase
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine1
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftShoulder
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftShoulder/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftArm
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftShoulder/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftForeArm
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftShoulder/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftForeArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftHand
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftShoulder/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftForeArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftHand/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftHandIndex1
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftShoulder/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftForeArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftHand/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftHandIndex1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftHandIndex2
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Neck
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Neck/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Head
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightShoulder
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightShoulder/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightArm
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightShoulder/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightForeArm
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightShoulder/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightForeArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightHand
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightShoulder/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightForeArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightHand/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightHandIndex1
+        weight: 1
+      - path: rabbit_truot_van:Vantruot:pCube3/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightShoulder/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightForeArm/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightHand/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightHandIndex1/rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightHandIndex2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftLegRoll
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightLegRoll
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Rabbit_Truotvan(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:pPlane6
+      parentName: 
+      position: {x: -0.015033464, y: -0.14307757, z: -0.014392363}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.3219525, y: 0.3219525, z: 0.3219525}
+    - name: rabbit_truot_van:Vantruot:pCube3
+      parentName: 
+      position: {x: -0.000044640045, y: 0.0021031774, z: -0.02038498}
+      rotation: {x: 0.059133496, y: -0.5900438, z: 0.08029425, w: 0.80118936}
+      scale: {x: 1.2446371, y: 1.2446373, z: 1.2446371}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Reference
+      parentName: 
+      position: {x: 0.017971966, y: 0.0036861028, z: 0.004414452}
+      rotation: {x: -0.0000000013807585, y: 0.9999672, z: -0.00000017044559, w: 0.008100609}
+      scale: {x: 0.803447, y: 0.803447, z: 0.803447}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_ChestEndEffector
+      parentName: 
+      position: {x: 0.0024981985, y: 0.028583536, z: 0.008628745}
+      rotation: {x: 0.18966234, y: 0.46448115, z: 0.033982918, w: 0.8643672}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_ChestOriginEffector
+      parentName: 
+      position: {x: 0.0018259506, y: 0.021264417, z: 0.006684064}
+      rotation: {x: 0.16285007, y: 0.3392391, z: -0.030727927, w: 0.9259873}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_HeadEffector
+      parentName: 
+      position: {x: 0.0036842413, y: 0.049714103, z: 0.016449768}
+      rotation: {x: 0.15248843, y: 0.58453655, z: 0.08399241, w: 0.7924706}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Hips
+      parentName: 
+      position: {x: 0.0008892697, y: 0.015887469, z: 0.00511955}
+      rotation: {x: 0.15877962, y: 0.32503125, z: -0.03714679, w: 0.9315384}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftUpLeg
+      parentName: 
+      position: {x: -0.0059173456, y: -0.004553072, z: -0.00012842595}
+      rotation: {x: -0.31289807, y: -0.021303758, z: -0.011883402, w: 0.94947344}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftLeg
+      parentName: 
+      position: {x: 0.0002346605, y: -0.005211564, z: 0.00018254935}
+      rotation: {x: 0.37563604, y: -0.0059420825, z: -0.017780727, w: 0.9265776}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftLegRoll
+      parentName: 
+      position: {x: 0.00025239168, y: -0.0040880013, z: -0.000030424892}
+      rotation: {x: 0.007878028, y: -0.014259081, z: -0.0086723, w: 0.9998297}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftFoot
+      parentName: 
+      position: {x: -0.000024952293, y: -0.004234526, z: -0.003072141}
+      rotation: {x: -0.21696737, y: -0.018417949, z: 0.01728062, w: 0.97585213}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftToeBase
+      parentName: 
+      position: {x: -0.0000000017881393, y: 0.000062241925, z: 0.011783388}
+      rotation: {x: 1.3462554e-14, y: -0.00000006105643, z: -0.00000022049362, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightUpLeg
+      parentName: 
+      position: {x: 0.0059173456, y: -0.004553072, z: -0.00012842595}
+      rotation: {x: -0.5902718, y: -0.073755674, z: 0.07132606, w: 0.8006572}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightLeg
+      parentName: 
+      position: {x: -0.0002346605, y: -0.005211564, z: 0.00018254935}
+      rotation: {x: 0.39370874, y: -0.03440612, z: -0.019932108, w: 0.91837484}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightLegRoll
+      parentName: 
+      position: {x: -0.00025239168, y: -0.0040880013, z: -0.000030424892}
+      rotation: {x: 0.00799949, y: -0.029197954, z: -0.017529365, w: 0.9993879}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightFoot
+      parentName: 
+      position: {x: 0.000024952293, y: -0.004234526, z: -0.003072141}
+      rotation: {x: 0.053010408, y: 0.019917045, z: -0.08781656, w: 0.99452573}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightToeBase
+      parentName: 
+      position: {x: 0.0000000017881393, y: 0.000062241925, z: 0.011783388}
+      rotation: {x: -8.5595905e-14, y: -0.00000036762157, z: 0.000000232837, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine
+      parentName: 
+      position: {x: -0.000046803783, y: 0.0056775305, z: -0.000009196103}
+      rotation: {x: 0.0020590909, y: 0.016209854, z: 0.004840319, w: 0.9998548}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Spine1
+      parentName: 
+      position: {x: -0.00006485439, y: 0.005379548, z: -0.000009269416}
+      rotation: {x: 0.009061787, y: 0.14823855, z: 0.046728015, w: 0.9878055}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftShoulder
+      parentName: 
+      position: {x: -0.003063829, y: 0.0021929145, z: -0.0006048876}
+      rotation: {x: 0.000000050516412, y: 0.00000004259081, z: -2.1654128e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftArm
+      parentName: 
+      position: {x: -0.0032447258, y: -0.0007328367, z: 0}
+      rotation: {x: 0.013285381, y: -0.0000012567331, z: 0.19709665, w: 0.98029405}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftForeArm
+      parentName: 
+      position: {x: -0.005162552, y: 0, z: 0.00034797727}
+      rotation: {x: 0.001986923, y: 0.055345453, z: 0.000086816995, w: 0.9984653}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftHand
+      parentName: 
+      position: {x: -0.003715905, y: 0.00013365269, z: -0.00016153335}
+      rotation: {x: -0.000000022551802, y: 0.000000059214635, z: 0.00000006014265,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftHandIndex1
+      parentName: 
+      position: {x: -0.0017760335, y: -0.000022506714, z: -0.00004122466}
+      rotation: {x: -0.000000026879274, y: -1.7801028e-15, z: 0.00000006622585, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftHandIndex2
+      parentName: 
+      position: {x: -0.0021770478, y: -0.0000000047683715, z: 0.000045511573}
+      rotation: {x: 0.000000082362654, y: -0.00000023843285, z: 1.9943023e-14, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Neck
+      parentName: 
+      position: {x: -0, y: 0.005379548, z: -0.0006048876}
+      rotation: {x: -0.03764446, y: 0.14791471, z: 0.005633315, w: 0.9882674}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_Head
+      parentName: 
+      position: {x: -0, y: 0.01938157, z: 0}
+      rotation: {x: 7.0250215e-15, y: 0.00000009711532, z: -0.000000069671124, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightShoulder
+      parentName: 
+      position: {x: 0.0032871452, y: 0.0021929145, z: -0.0006048876}
+      rotation: {x: 0.00000006971243, y: 0.000000048716206, z: -3.4238806e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightArm
+      parentName: 
+      position: {x: 0.003244726, y: -0.0007328367, z: 0}
+      rotation: {x: 0.093101196, y: -0.14178452, z: 0.1353868, w: 0.97616583}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightForeArm
+      parentName: 
+      position: {x: 0.005162552, y: 0, z: 0.00034797727}
+      rotation: {x: 0.0019873728, y: -0.055345103, z: -0.00008767421, w: 0.9984653}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightHand
+      parentName: 
+      position: {x: 0.003715905, y: 0.00013365269, z: -0.00016153335}
+      rotation: {x: -0.00000015837618, y: -0.000001075018, z: 0.0000001439245, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightHandIndex1
+      parentName: 
+      position: {x: 0.0017760335, y: -0.000022506714, z: -0.00004122466}
+      rotation: {x: -3.8147924e-13, y: -0.00000017041639, z: -0.00000004823772, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightHandIndex2
+      parentName: 
+      position: {x: 0.0021770478, y: -0.0000000047683715, z: 0.000045511573}
+      rotation: {x: -0.00000006422455, y: 0.00000007148565, z: 0.00000030518692, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_HipsEffector
+      parentName: 
+      position: {x: 0.000027955817, y: 0.011617629, z: 0.0037877976}
+      rotation: {x: 0.15877962, y: 0.32503128, z: -0.03714679, w: 0.9315384}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftAnkleEffector
+      parentName: 
+      position: {x: -0.0070496597, y: 0.00050308614, z: 0.0033341716}
+      rotation: {x: 0.013117021, y: 0.27224228, z: -0.019651918, w: 0.9619386}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftElbowEffector
+      parentName: 
+      position: {x: -0.0038915714, y: 0.023328299, z: 0.016637206}
+      rotation: {x: 0.27928317, y: 0.46450788, z: 0.2124368, w: 0.813083}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftFootEffector
+      parentName: 
+      position: {x: -0.0008812617, y: 0.00014181485, z: 0.0133677395}
+      rotation: {x: 0.013116951, y: 0.27224222, z: -0.01965213, w: 0.9619386}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftHandIndexEffector
+      parentName: 
+      position: {x: -0.0077059227, y: 0.018813362, z: 0.021527652}
+      rotation: {x: 0.27928314, y: 0.4645079, z: 0.21243691, w: 0.81308293}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftHipEffector
+      parentName: 
+      position: {x: -0.0046227784, y: 0.011416384, z: 0.007440899}
+      rotation: {x: -0.14537331, y: 0.30227327, z: 0.051979285, w: 0.94063574}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftKneeEffector
+      parentName: 
+      position: {x: -0.0033635765, y: 0.006511242, z: 0.008706912}
+      rotation: {x: 0.21357132, y: 0.29143077, z: -0.08124327, w: 0.9288998}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftShoulderEffector
+      parentName: 
+      position: {x: -0.0012230228, y: 0.02639677, z: 0.013437773}
+      rotation: {x: 0.2889561, y: 0.41839674, z: 0.19750604, w: 0.83811694}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_LeftWristEffector
+      parentName: 
+      position: {x: -0.0058212182, y: 0.02122271, z: 0.019023597}
+      rotation: {x: 0.2792831, y: 0.4645079, z: 0.21243681, w: 0.813083}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightAnkleEffector
+      parentName: 
+      position: {x: 0.0076993164, y: 0.00047120426, z: 0.00076177955}
+      rotation: {x: 0.013768314, y: 0.2272427, z: 0.00073758356, w: 0.9737406}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightElbowEffector
+      parentName: 
+      position: {x: 0.010370988, y: 0.031019505, z: 0.00094783783}
+      rotation: {x: 0.3389744, y: 0.25894672, z: 0.060800895, w: 0.90241134}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightFootEffector
+      parentName: 
+      position: {x: 0.012914604, y: 0.00022141825, z: 0.01132542}
+      rotation: {x: 0.013768373, y: 0.22724232, z: 0.00073780364, w: 0.97374064}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightHandIndexEffector
+      parentName: 
+      position: {x: 0.01688216, y: 0.03338339, z: -0.002348692}
+      rotation: {x: 0.3389744, y: 0.25894555, z: 0.060800612, w: 0.9024117}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightHipEffector
+      parentName: 
+      position: {x: 0.00467869, y: 0.011818876, z: 0.00013469625}
+      rotation: {x: -0.4022893, y: 0.20213394, z: 0.216847, w: 0.8661885}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightKneeEffector
+      parentName: 
+      position: {x: 0.0073226993, y: 0.008877512, z: 0.0035415143}
+      rotation: {x: -0.02499451, y: 0.23318861, z: 0.1161412, w: 0.96514744}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightShoulderEffector
+      parentName: 
+      position: {x: 0.0060472884, y: 0.029413458, z: 0.0032928865}
+      rotation: {x: 0.33331844, y: 0.3083428, z: 0.08006191, w: 0.8873633}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Ctrl_RightWristEffector
+      parentName: 
+      position: {x: 0.013487738, y: 0.032275293, z: -0.00065240555}
+      rotation: {x: 0.3389744, y: 0.2589457, z: 0.060800705, w: 0.90241164}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Reference
+      parentName: 
+      position: {x: 0.015579646, y: -0.0016897917, z: -0.000035770317}
+      rotation: {x: -4.0227256e-24, y: 0.70710665, z: 4.0227244e-24, w: 0.7071069}
+      scale: {x: 0.803447, y: 0.803447, z: 0.803447}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Hips
+      parentName: 
+      position: {x: -0.0029679027, y: 0.018520985, z: 0.0013752754}
+      rotation: {x: 0.0149628855, y: -0.14930235, z: -0.0985903, w: 0.9837504}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftUpLeg
+      parentName: 
+      position: {x: -0.0059173456, y: -0.0045530736, z: -0.0001284261}
+      rotation: {x: -0.0000000053145, y: 0.000000023911154, z: 0.000000019668787,
+        w: 1}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftLeg
+      parentName: 
+      position: {x: 0.00023466087, y: -0.0052115642, z: 0.00018254873}
+      rotation: {x: 0.000000023940952, y: 0.000000013119729, z: -0.000000015448036,
+        w: 1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftLegRoll
+      parentName: 
+      position: {x: 0.00025239118, y: -0.0040880004, z: -0.000030425274}
+      rotation: {x: -0.07715477, y: 0.0047447337, z: -0.00591333, w: 0.9969903}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000002}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftFoot
+      parentName: 
+      position: {x: -0.00002495298, y: -0.004234527, z: -0.003072141}
+      rotation: {x: 0.07715477, y: -0.0047446843, z: 0.0059133195, w: 0.9969904}
+      scale: {x: 0.9999999, y: 1.0000004, z: 0.99999976}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftToeBase
+      parentName: 
+      position: {x: 2.2336769e-10, y: 0.00006224249, z: 0.011783388}
+      rotation: {x: -0.000000010840502, y: -0.000000013119724, z: 4.5923595e-10, w: 1}
+      scale: {x: 0.9999999, y: 1.0000002, z: 0.9999999}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightUpLeg
+      parentName: 
+      position: {x: 0.0059173456, y: -0.004553074, z: -0.0001284251}
+      rotation: {x: -0.00000002339408, y: 0.00000005103052, z: 0.000000010629001,
+        w: 1}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1.0000002}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightLeg
+      parentName: 
+      position: {x: -0.00023466, y: -0.005211565, z: 0.00018254833}
+      rotation: {x: 0.000000020762531, y: -0.00000003925638, z: -0.000000027666248,
+        w: 1}
+      scale: {x: 0.99999976, y: 1.0000001, z: 0.9999999}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightLegRoll
+      parentName: 
+      position: {x: -0.00025239136, y: -0.0040880046, z: -0.00003042499}
+      rotation: {x: -0.077154756, y: -0.00474468, z: 0.005913369, w: 0.9969903}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightFoot
+      parentName: 
+      position: {x: 0.000024951894, y: -0.00423453, z: -0.003072142}
+      rotation: {x: 0.077154756, y: 0.00474465, z: -0.005913371, w: 0.9969903}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightToeBase
+      parentName: 
+      position: {x: 0.000000004286163, y: 0.000062243045, z: 0.011783391}
+      rotation: {x: 0.0000000068855943, y: 0.000000012188404, z: 0.000000008015569,
+        w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine
+      parentName: 
+      position: {x: -0.000046803765, y: 0.00567753, z: -0.00000919805}
+      rotation: {x: 0.0000000127650805, y: 0.000000041990727, z: -0.000000007450582,
+        w: 1}
+      scale: {x: 1, y: 1.0000004, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Spine1
+      parentName: 
+      position: {x: -0.00006485429, y: 0.005379545, z: -0.000009269264}
+      rotation: {x: -0.0000000074505815, y: 0.000000046950586, z: -0.000000002259948,
+        w: 1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftShoulder
+      parentName: 
+      position: {x: -0.0030638294, y: 0.002192915, z: -0.0006048872}
+      rotation: {x: 1.7661468e-16, y: -0.000000012188401, z: -0.000000005985238, w: 1}
+      scale: {x: 0.9999999, y: 1.0000005, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftArm
+      parentName: 
+      position: {x: -0.003244726, y: -0.00073283643, z: 7.9909995e-10}
+      rotation: {x: 0.0000000037252916, y: -0.000000048347562, z: -0.000000021593365,
+        w: 1}
+      scale: {x: 1.0000004, y: 1, z: 1.0000001}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftForeArm
+      parentName: 
+      position: {x: -0.005162552, y: -5.4147714e-10, z: 0.00034797762}
+      rotation: {x: 0.000000009039789, y: 0.000000038376456, z: 0.000000019967926,
+        w: 1}
+      scale: {x: 0.9999999, y: 1.0000002, z: 0.99999994}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftHand
+      parentName: 
+      position: {x: -0.0037159051, y: 0.00013365205, z: -0.00016153311}
+      rotation: {x: -0.0000000058613736, y: 0.000000036979472, z: 0.0000000013414734,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999999}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftHandIndex1
+      parentName: 
+      position: {x: -0.0017760325, y: -0.000022506196, z: -0.000041224637}
+      rotation: {x: 0.0000000015892091, y: -0.000000022159515, z: -0.0000000023838174,
+        w: 1}
+      scale: {x: 0.9999999, y: 1.0000005, z: 0.99999994}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_LeftHandIndex2
+      parentName: 
+      position: {x: -0.0021770466, y: -0.0000000044804986, z: 0.00004551161}
+      rotation: {x: -0.000000007450545, y: -0.000005355636, z: 0.0000000043960675,
+        w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.9999999}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightShoulder
+      parentName: 
+      position: {x: 0.003287145, y: 0.0021929143, z: -0.0006048877}
+      rotation: {x: 1.7661468e-16, y: -0.000000012188401, z: -0.000000005985238, w: 1}
+      scale: {x: 0.9999999, y: 1.0000005, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightArm
+      parentName: 
+      position: {x: 0.003244726, y: -0.00073283736, z: -7.2079875e-10}
+      rotation: {x: 0.00000001276508, y: -0.000000012188405, z: 0.000000015695765,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightForeArm
+      parentName: 
+      position: {x: 0.005162551, y: -0.0000000010764962, z: 0.00034797846}
+      rotation: {x: -0.000000018626451, y: -0.00000002629906, z: 0.000000027119372,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000004}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightHand
+      parentName: 
+      position: {x: 0.0037159058, y: 0.00013365358, z: -0.00016153304}
+      rotation: {x: -0.000000010628999, y: 0.00000006689281, z: -0.000000046292698,
+        w: 1}
+      scale: {x: 0.9999998, y: 1.0000002, z: 0.9999999}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightHandIndex1
+      parentName: 
+      position: {x: 0.0017760323, y: -0.000022507456, z: -0.000041223793}
+      rotation: {x: 5.468691e-10, y: 0.0000000077538225, z: 0.0000000021360818, w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_RightHandIndex2
+      parentName: 
+      position: {x: 0.002177049, y: -0.0000000027978468, z: 0.00004551224}
+      rotation: {x: 0.000000029255398, y: -0.000005344268, z: 0.000000007450618, w: 1}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Neck
+      parentName: 
+      position: {x: -1.0165612e-10, y: 0.005379549, z: -0.00060488755}
+      rotation: {x: -0.000000004519895, y: -0.000000028008037, z: -0.0000000037252903,
+        w: 1}
+      scale: {x: 1, y: 1, z: 0.9999998}
+    - name: rabbit_truot_van:Pig_Rig:Sonic_3_Rig:Character1_Head
+      parentName: 
+      position: {x: 0.0000000046771973, y: 0.0193816, z: -0.0000000050417635}
+      rotation: {x: 0.0000000029306861, y: 0.000000032527936, z: 0.0000000074505815,
+        w: 1}
+      scale: {x: 1, y: 1.0000004, z: 0.9999999}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

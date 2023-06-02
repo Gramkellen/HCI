@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 167550821d2705d46a145151c1aa927d
+timeCreated: 1471171990
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cauthang
+    100002: Cot
+    100004: Cot2
+    100006: Exit
+    100008: Maitren
+    100010: Maitren2
+    100012: Maivom
+    100014: //RootNode
+    100016: Tran1
+    100018: Tran2
+    100020: TUong1
+    100022: Tuong2
+    100024: Viahe
+    400000: Cauthang
+    400002: Cot
+    400004: Cot2
+    400006: Exit
+    400008: Maitren
+    400010: Maitren2
+    400012: Maivom
+    400014: //RootNode
+    400016: Tran1
+    400018: Tran2
+    400020: TUong1
+    400022: Tuong2
+    400024: Viahe
+    2300000: Cauthang
+    2300002: Cot
+    2300004: Cot2
+    2300006: Exit
+    2300008: Maitren
+    2300010: Maitren2
+    2300012: Maivom
+    2300014: Tran1
+    2300016: Tran2
+    2300018: TUong1
+    2300020: Tuong2
+    2300022: Viahe
+    3300000: Cauthang
+    3300002: Cot
+    3300004: Cot2
+    3300006: Exit
+    3300008: Maitren
+    3300010: Maitren2
+    3300012: Maivom
+    3300014: Tran1
+    3300016: Tran2
+    3300018: TUong1
+    3300020: Tuong2
+    3300022: Viahe
+    4300000: Cot2
+    4300002: Exit
+    4300004: Cot
+    4300006: Tran1
+    4300008: Tuong2
+    4300010: Maivom
+    4300012: Maitren2
+    4300014: Maitren
+    4300016: Viahe
+    4300018: Cauthang
+    4300020: TUong1
+    4300022: Tran2
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

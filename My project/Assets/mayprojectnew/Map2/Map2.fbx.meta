@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 70e6a20854aa7fb45999959caba5aeee
+timeCreated: 1471162849
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bonhoa
+    100002: Caugo
+    100004: Cauthang
+    100006: Cauto
+    100008: Cay1
+    100010: Cay2
+    100012: Cay3
+    100014: Cay4
+    100016: Co1
+    100018: Co2
+    100020: Cong
+    100022: Cot1
+    100024: Cot2
+    100026: Ghe
+    100028: //RootNode
+    100030: Song
+    100032: Tuong
+    100034: Tuong1
+    100036: Tuong2
+    100038: Tuong3
+    100040: Viahe
+    400000: Bonhoa
+    400002: Caugo
+    400004: Cauthang
+    400006: Cauto
+    400008: Cay1
+    400010: Cay2
+    400012: Cay3
+    400014: Cay4
+    400016: Co1
+    400018: Co2
+    400020: Cong
+    400022: Cot1
+    400024: Cot2
+    400026: Ghe
+    400028: //RootNode
+    400030: Song
+    400032: Tuong
+    400034: Tuong1
+    400036: Tuong2
+    400038: Tuong3
+    400040: Viahe
+    2300000: Bonhoa
+    2300002: Caugo
+    2300004: Cauthang
+    2300006: Cauto
+    2300008: Cay1
+    2300010: Cay2
+    2300012: Cay3
+    2300014: Cay4
+    2300016: Co1
+    2300018: Co2
+    2300020: Cong
+    2300022: Cot1
+    2300024: Cot2
+    2300026: Ghe
+    2300028: Song
+    2300030: Tuong
+    2300032: Tuong1
+    2300034: Tuong2
+    2300036: Tuong3
+    2300038: Viahe
+    3300000: Bonhoa
+    3300002: Caugo
+    3300004: Cauthang
+    3300006: Cauto
+    3300008: Cay1
+    3300010: Cay2
+    3300012: Cay3
+    3300014: Cay4
+    3300016: Co1
+    3300018: Co2
+    3300020: Cong
+    3300022: Cot1
+    3300024: Cot2
+    3300026: Ghe
+    3300028: Song
+    3300030: Tuong
+    3300032: Tuong1
+    3300034: Tuong2
+    3300036: Tuong3
+    3300038: Viahe
+    4300000: Song
+    4300002: Co1
+    4300004: Co2
+    4300006: Cot1
+    4300008: Tuong1
+    4300010: Cot2
+    4300012: Tuong2
+    4300014: Tuong3
+    4300016: Cong
+    4300018: Viahe
+    4300020: Cay1
+    4300022: Cay2
+    4300024: Cay3
+    4300026: Ghe
+    4300028: Cauto
+    4300030: Caugo
+    4300032: Cay4
+    4300034: Bonhoa
+    4300036: Tuong
+    4300038: Cauthang
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 30
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

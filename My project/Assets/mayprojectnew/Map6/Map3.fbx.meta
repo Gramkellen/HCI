@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: 9f949e9501b899240b429b359c037769
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cauthang
+    100002: Cot
+    100004: Cot2
+    100006: Exit
+    100008: Maitren
+    100010: Maitren2
+    100012: Maivom
+    100014: //RootNode
+    100016: pCube91
+    100018: polySurface4
+    100020: Tran1
+    100022: Tran2
+    100024: TUong1
+    100026: Tuong2
+    100028: Viahe
+    400000: Cauthang
+    400002: Cot
+    400004: Cot2
+    400006: Exit
+    400008: Maitren
+    400010: Maitren2
+    400012: Maivom
+    400014: //RootNode
+    400016: pCube91
+    400018: polySurface4
+    400020: Tran1
+    400022: Tran2
+    400024: TUong1
+    400026: Tuong2
+    400028: Viahe
+    2300000: Cauthang
+    2300002: Cot
+    2300004: Cot2
+    2300006: Exit
+    2300008: Maitren
+    2300010: Maitren2
+    2300012: Maivom
+    2300014: polySurface4
+    2300016: Tran1
+    2300018: Tran2
+    2300020: TUong1
+    2300022: Tuong2
+    2300024: Viahe
+    3300000: Cauthang
+    3300002: Cot
+    3300004: Cot2
+    3300006: Exit
+    3300008: Maitren
+    3300010: Maitren2
+    3300012: Maivom
+    3300014: polySurface4
+    3300016: Tran1
+    3300018: Tran2
+    3300020: TUong1
+    3300022: Tuong2
+    3300024: Viahe
+    4300000: Cot2
+    4300002: Exit
+    4300004: Cot
+    4300006: Tran1
+    4300008: Tuong2
+    4300010: Maivom
+    4300012: Maitren2
+    4300014: Maitren
+    4300016: Viahe
+    4300018: Cauthang
+    4300020: TUong1
+    4300022: Tran2
+    4300024: polySurface4
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert11
+    second: {fileID: 2100000, guid: af95eff2916d3b640869071696cd6d67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert15
+    second: {fileID: 2100000, guid: 45e0d4650357bbb459403cf0b5fe41ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert16
+    second: {fileID: 2100000, guid: af95eff2916d3b640869071696cd6d67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert17
+    second: {fileID: 2100000, guid: af95eff2916d3b640869071696cd6d67, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'RightUpperLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: pCube91
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: polySurface4
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Map3(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cauthang
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cot
+      parentName: 
+      position: {x: 44.50071, y: 20.397215, z: 510.18237}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cot2
+      parentName: 
+      position: {x: 56.100185, y: 6.497444, z: 560.332}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9879179, y: 1, z: 0.9758594}
+    - name: Exit
+      parentName: 
+      position: {x: 39.969654, y: 27.921337, z: 661.04614}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.80699456, y: 0.35576978, z: 0.58663744}
+    - name: Maitren
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Maitren2
+      parentName: 
+      position: {x: -17.855005, y: 48.762817, z: 595.83673}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Maivom
+      parentName: 
+      position: {x: 11.962347, y: 48.084526, z: 531.9321}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube91
+      parentName: 
+      position: {x: 66.71224, y: 20.421692, z: 578.1561}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface4
+      parentName: 
+      position: {x: -66.71224, y: -20.421692, z: -578.1561}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tran1
+      parentName: 
+      position: {x: 12.63605, y: 28.534103, z: 509.9212}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tran2
+      parentName: 
+      position: {x: 24.793776, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: -1}
+    - name: TUong1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tuong2
+      parentName: 
+      position: {x: 51.142685, y: 20.451424, z: 667.89734}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Viahe
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

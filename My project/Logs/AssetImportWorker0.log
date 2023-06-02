@@ -1,0 +1,339 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.25f1 (68ef2c4f8861) revision 6876972'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit CoreCountrySpecific' Language: 'zh' Physical Memory: 16145 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\unityHub\2021.3.25f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+F:/学习/git仓库/HCI/My project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+3276
+Successfully changed project path to: F:/学习/git仓库/HCI/My project
+F:/学习/git仓库/HCI/My project
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [21668] Host "[IP] 100.80.168.35 [Port] 0 [Flags] 2 [Guid] 3875574885 [EditorId] 3875574885 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-SINJ6KV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [21668] Host "[IP] 100.80.168.35 [Port] 0 [Flags] 2 [Guid] 3875574885 [EditorId] 3875574885 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-SINJ6KV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 101.27 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.25f1 (68ef2c4f8861)
+[Subsystems] Discovering subsystems at path D:/unityHub/2021.3.25f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/学习/git仓库/HCI/My project/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f99)
+    Vendor:   NVIDIA
+    VRAM:     3949 MB
+    Driver:   31.0.15.2833
+Shader 'Hidden/FXAA Preset 2': fallback shader 'Hidden/FXAA II' not found
+Shader 'Hidden/FXAA Preset 3': fallback shader 'Hidden/FXAA II' not found
+Initialize mono
+Mono path[0] = 'D:/unityHub/2021.3.25f1/Editor/Data/Managed'
+Mono path[1] = 'D:/unityHub/2021.3.25f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/unityHub/2021.3.25f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56000
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/unityHub/2021.3.25f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/unityHub/2021.3.25f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: D:/unityHub/2021.3.25f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005943 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 305 ms
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 94.21 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.051 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1052ms)
+		BeginReloadAssembly (81ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (864ms)
+			LoadAssemblies (81ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (115ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (664ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (432ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (94ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (90ms)
+				ProcessInitializeOnLoadMethodAttributes (45ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003871 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image F:\学习\git仓库\HCI\My project\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\学习\git仓库\HCI\My project\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.881 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3882ms)
+		BeginReloadAssembly (130ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (23ms)
+		EndReloadAssembly (3643ms)
+			LoadAssemblies (2908ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (302ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (54ms)
+			SetupLoadedEditorAssemblies (354ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (21ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (77ms)
+				ProcessInitializeOnLoadAttributes (233ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Toon/Lit Outline': fallback shader 'Toon/Lit' not found
+WARNING: Shader Unsupported: 'Toon/Lit Outline' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Toon/Lit Outline' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 1.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3241 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 26 unused Assets / (0.7 MB). Loaded Objects now: 3705.
+Memory consumption went from 135.4 MB to 134.7 MB.
+Total: 3.871400 ms (FindLiveObjects: 0.337400 ms CreateObjectMapping: 0.329000 ms MarkObjects: 2.740600 ms  DeleteObjects: 0.463000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 51584.538838 seconds.
+  path: Assets/0211FC_IC17.png
+  artifactKey: Guid(dd0e7b8bbb6ca514a8d682fe7ecb3729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/0211FC_IC17.png using Guid(dd0e7b8bbb6ca514a8d682fe7ecb3729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e86bbfb512fd125cbfcb9d8fe42af78') in 0.110580 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 39.129484 seconds.
+  path: Assets/mayprojectnew
+  artifactKey: Guid(238148ba1c3f418458a3b4726dfacde9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mayprojectnew using Guid(238148ba1c3f418458a3b4726dfacde9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '593711681d62934e081e56503adaf6c4') in 0.006772 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022248 seconds.
+  path: Assets/mayprojectnew/logo 2.png
+  artifactKey: Guid(5ae5881838bc81948bcb9cdc19e48b62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mayprojectnew/logo 2.png using Guid(5ae5881838bc81948bcb9cdc19e48b62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac636e6fc1a86e10af8d5193ef192e0d') in 0.034128 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.778873 seconds.
+  path: Assets/mayprojectnew/Prefeb
+  artifactKey: Guid(e93521a1f97c6874c86d6fa641a1808e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mayprojectnew/Prefeb using Guid(e93521a1f97c6874c86d6fa641a1808e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8f52c73082793e0479385bce56d2cdf') in 0.006028 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.046083 seconds.
+  path: Assets/mayprojectnew/Prefeb/capoeira.fbx
+  artifactKey: Guid(5d7a86866af0ab249b2fa3bf2e12e1ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mayprojectnew/Prefeb/capoeira.fbx using Guid(5d7a86866af0ab249b2fa3bf2e12e1ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26bc44944ea9207b84251c6a1e182811') in 0.024148 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/mayprojectnew/Prefeb/mapcongcongvien.prefab
+  artifactKey: Guid(d2e7c8d38d2b3b34d8ff1b16efeb431a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mayprojectnew/Prefeb/mapcongcongvien.prefab using Guid(d2e7c8d38d2b3b34d8ff1b16efeb431a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47bec3b96bf5c9fbcd08c8a3ed4d5c4f') in 0.469496 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/mayprojectnew/Prefeb/cauphai.prefab
+  artifactKey: Guid(12a8100b757a9c94c818b292ce5a28f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mayprojectnew/Prefeb/cauphai.prefab using Guid(12a8100b757a9c94c818b292ce5a28f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a2cff85731c4b5a55d5797833e04dd7') in 0.018120 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/mayprojectnew/Prefeb/GameObjectmap5.prefab
+  artifactKey: Guid(9226bec22d8a60d49ad32c9d9b127ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mayprojectnew/Prefeb/GameObjectmap5.prefab using Guid(9226bec22d8a60d49ad32c9d9b127ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '693423a78681bdf9501ab8cfb03c18b7') in 0.031089 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/mayprojectnew/Prefeb/thanhchancaolon.prefab
+  artifactKey: Guid(706ce1f38e0bb1945a49068c48f1f5d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mayprojectnew/Prefeb/thanhchancaolon.prefab using Guid(706ce1f38e0bb1945a49068c48f1f5d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '744612d8a062568578ef260e299f2db7') in 0.014802 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/mayprojectnew/Prefeb/ham1.prefab
+  artifactKey: Guid(cdb373d6cdcd84d48bc33df9d75e7698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mayprojectnew/Prefeb/ham1.prefab using Guid(cdb373d6cdcd84d48bc33df9d75e7698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7756b85f268edd4bc353009043156083') in 0.013301 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/mayprojectnew/Prefeb/thanhchanthap.prefab
+  artifactKey: Guid(658604b8f11975f4893a7dba72d5629b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mayprojectnew/Prefeb/thanhchanthap.prefab using Guid(658604b8f11975f4893a7dba72d5629b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cba4a63191f24dec53bcae64648d518') in 0.014799 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/mayprojectnew/Prefeb/mainmap.prefab
+  artifactKey: Guid(bd5c000191ac1414783fb6544a064d77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mayprojectnew/Prefeb/mainmap.prefab using Guid(bd5c000191ac1414783fb6544a064d77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '775aa8c776272702ae1512981dc107d1') in 0.175234 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/mayprojectnew/Prefeb/nvgirl.prefab
+  artifactKey: Guid(cf7aa0723e81a3644bb94abade05ebe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mayprojectnew/Prefeb/nvgirl.prefab using Guid(cf7aa0723e81a3644bb94abade05ebe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e00c3aa2ab4116a009e5e50abf18868') in 0.086122 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.903814 seconds.
+  path: Assets/mayprojectnew/Prefeb/map2congvien (1).prefab
+  artifactKey: Guid(c2acd399d3348114da7db0370c5a66f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mayprojectnew/Prefeb/map2congvien (1).prefab using Guid(c2acd399d3348114da7db0370c5a66f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41985a1ff7d466ab5c37c5e211e282c6') in 0.026082 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/mayprojectnew/Prefeb/mapitro.prefab
+  artifactKey: Guid(b4189e387aaa3a44b98f9a137d7e55ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mayprojectnew/Prefeb/mapitro.prefab using Guid(b4189e387aaa3a44b98f9a137d7e55ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) '.' is not allowed in State name
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\build\output\unity\unity\Editor\Src\Animation\StateMachine.cpp line 33]
+
+'.' is not allowed in State name
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\build\output\unity\unity\Editor\Src\Animation\StateMachine.cpp line 33]
+
+'.' is not allowed in State name
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\build\output\unity\unity\Editor\Src\Animation\StateMachine.cpp line 33]
+
+'.' is not allowed in State name
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\build\output\unity\unity\Editor\Src\Animation\StateMachine.cpp line 33]
+
+'.' is not allowed in State name
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\build\output\unity\unity\Editor\Src\Animation\StateMachine.cpp line 33]
+
+ -> (artifact id: 'b40fb8101985e76f8ad4b3ccf7308359') in 0.219210 seconds 
