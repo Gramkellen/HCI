@@ -14,8 +14,8 @@ public class nextMapGenerator : MonoBehaviour
     }
     void OnTriggerEnter(Collider other)
     {
-        //Debug.Log("生成下一块地图");
-        //Debug.Log(other.name+ other.tag);
+        Debug.Log("生成下一块地图");
+        Debug.Log(other.name+ "   "+other.tag);
         if (other.tag == "Player")
             Copy();//生成新地图
     }

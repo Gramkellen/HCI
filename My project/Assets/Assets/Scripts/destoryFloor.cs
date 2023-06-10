@@ -16,7 +16,7 @@ public class destoryFloor : MonoBehaviour
         if (other.tag == "Player")
         {
             
-            obstacleGenerator childComponent = transform.parent.GetComponent<obstacleGenerator>();
+            objGenerator childComponent = transform.parent.GetComponent<objGenerator>();
             while (childComponent.obstacles.Count > 0)//摧毁所有障碍物
             {
                 GameObject obstacle = childComponent.obstacles[0];

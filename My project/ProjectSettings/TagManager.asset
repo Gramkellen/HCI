@@ -3,7 +3,37 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - ship
+  - thanhchan
+  - taucat
+  - die
+  - headship
+  - upcamera
+  - taungang
+  - map
+  - wall
+  - cau
+  - speeditem
+  - dowleft
+  - Magnet
+  - pain
+  - giay
+  - baycao
+  - x2coin
+  - coin
+  - bum2
+  - namcham
+  - hopqua
+  - van
+  - iteamgiay
+  - key
+  - bay
+  - bum
+  - down
+  - backmap
+  - mai
+  - Coin
   layers:
   - Default
   - TransparentFX
